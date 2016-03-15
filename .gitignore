@@ -1,4 +1,4 @@
-pm/node_modules
-pm/public/libs
+node_module
+/public/libs
 .swp*
 
